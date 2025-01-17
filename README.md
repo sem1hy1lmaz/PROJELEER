@@ -1,2 +1,15 @@
 # PROJELEER
  TİVAM4
+PROJE 1 : LCD'ye yazı yazdırma Uygulaması :
+
+PROJE 2 : LCD'de SAAT İŞLEME UYGULAMASI :
+
+
+POJE 3 ve PROJE 4 >>>>>>>>>>>           :
+ADC ve SERİPORT PROJESİ AYNI PROJENİN İÇİNDEDİR.ADC'den  değeri potansiyometre üzerinden  okunarak hem LCD üzerinde görülüyor hem de bilgisayar ekranında görülebiliyor.Aynı zamanda UART serihaberleşme üzerinden COM kanalıyla Saatin başlangıç saati ayarlanabiliyor.. 
+ 
+BAĞLANTI PİN ŞEMASI  :![Ekran görüntüsü 2025-01-17 145325](https://github.com/user-attachments/assets/c7df1290-4510-48dd-9e66-f2e020ab8062)
+
+UYGULAMA ÖRNEĞİ GÖRÜNTÜSÜ:![WhatsApp Görsel 2025-01-17 saat 14 43 19_81638513](https://github.com/user-attachments/assets/72fa5e54-718b-416b-9dfc-e2bd3fc72225)
+
+
