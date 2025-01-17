@@ -12,4 +12,5 @@ BAĞLANTI PİN ŞEMASI  :![Ekran görüntüsü 2025-01-17 145325](https://github
 
 UYGULAMA ÖRNEĞİ GÖRÜNTÜSÜ:![WhatsApp Görsel 2025-01-17 saat 14 43 19_81638513](https://github.com/user-attachments/assets/72fa5e54-718b-416b-9dfc-e2bd3fc72225)
 
+LCD YAZI YAZIDRMA  PROJE 1 :  ![WhatsApp Görsel 2025-01-17 saat 15 21 46_35312240](https://github.com/user-attachments/assets/2131f873-a6e0-4373-982e-427582df9252)
 
