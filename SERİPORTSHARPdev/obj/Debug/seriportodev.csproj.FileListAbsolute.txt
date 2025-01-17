@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\SharpDevelop Projects\seriportodev\seriportodev\bin\Debug\seriportodev.exe.config
+C:\Users\Admin\Documents\SharpDevelop Projects\seriportodev\seriportodev\bin\Debug\seriportodev.exe
+C:\Users\Admin\Documents\SharpDevelop Projects\seriportodev\seriportodev\bin\Debug\seriportodev.pdb
+C:\Users\Admin\Documents\SharpDevelop Projects\seriportodev\seriportodev\obj\Debug\seriportodev.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SharpDevelop Projects\seriportodev\seriportodev\obj\Debug\seriportodev.MainForm.resources
+C:\Users\Admin\Documents\SharpDevelop Projects\seriportodev\seriportodev\obj\Debug\seriportodev.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\SharpDevelop Projects\seriportodev\seriportodev\obj\Debug\seriportodev.exe
+C:\Users\Admin\Documents\SharpDevelop Projects\seriportodev\seriportodev\obj\Debug\seriportodev.pdb
