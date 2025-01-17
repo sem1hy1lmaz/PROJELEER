@@ -1,10 +1,3 @@
-/*
- * seriportlcd.c
- *
- *  Created on: 15 Ara 2024
- *      Author: alper
- */
-
 #include <stdint.h>
 #include <stdbool.h>
 #include "inc/hw_memmap.h"
