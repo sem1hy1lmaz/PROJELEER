@@ -1,0 +1,2 @@
+LCD.obj: ../LCD.c
+LCD.obj: C:/Users/Admin/workspace_v11/Proje2Saat/LCD.h
