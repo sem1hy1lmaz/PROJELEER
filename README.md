@@ -16,3 +16,4 @@ UYGULAMA ÖRNEĞİ GÖRÜNTÜSÜ:![WhatsApp Görsel 2025-01-17 saat 14 43 19_816
 
 LCD YAZI YAZIDRMA  PROJE 1 :  ![WhatsApp Görsel 2025-01-17 saat 15 21 46_35312240](https://github.com/user-attachments/assets/2131f873-a6e0-4373-982e-427582df9252)
 
+SERİPORT ÖDEVİ WİNDOWS UYGULAMASI : ![image](https://github.com/user-attachments/assets/dff070bd-7c2a-40d8-9c0e-2a8dcef0465b)
